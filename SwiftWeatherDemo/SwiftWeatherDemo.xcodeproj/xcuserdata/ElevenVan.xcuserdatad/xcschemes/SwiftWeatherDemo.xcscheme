@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED9A67AD19D06F86004F7453"
+               BlueprintIdentifier = "ED9A67DB19D074C1004F7453"
                BuildableName = "SwiftWeatherDemo.app"
                BlueprintName = "SwiftWeatherDemo"
                ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED9A67C219D06F87004F7453"
+               BlueprintIdentifier = "ED9A67F019D074C1004F7453"
                BuildableName = "SwiftWeatherDemoTests.xctest"
                BlueprintName = "SwiftWeatherDemoTests"
                ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED9A67C219D06F87004F7453"
+               BlueprintIdentifier = "ED9A67F019D074C1004F7453"
                BuildableName = "SwiftWeatherDemoTests.xctest"
                BlueprintName = "SwiftWeatherDemoTests"
                ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED9A67AD19D06F86004F7453"
+            BlueprintIdentifier = "ED9A67DB19D074C1004F7453"
             BuildableName = "SwiftWeatherDemo.app"
             BlueprintName = "SwiftWeatherDemo"
             ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED9A67AD19D06F86004F7453"
+            BlueprintIdentifier = "ED9A67DB19D074C1004F7453"
             BuildableName = "SwiftWeatherDemo.app"
             BlueprintName = "SwiftWeatherDemo"
             ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED9A67AD19D06F86004F7453"
+            BlueprintIdentifier = "ED9A67DB19D074C1004F7453"
             BuildableName = "SwiftWeatherDemo.app"
             BlueprintName = "SwiftWeatherDemo"
             ReferencedContainer = "container:SwiftWeatherDemo.xcodeproj">
